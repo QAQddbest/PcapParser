@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/main.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+pcap_parser.h
+../include/pcap_parser.h
+tools.h
+../include/tools.h
+
+../include/pcap_parser.h
+stdint.h
+-
+
+../include/tools.h
+stdint.h
+-
+
+D:/Works/C/PcapParser/src/main.c
+main.h
+D:/Works/C/PcapParser/src/main.h
+

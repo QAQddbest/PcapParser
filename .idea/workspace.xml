@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="PcapParser" targetName="PcapParser" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_DIR="build" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="209ce6ad-f628-4aad-a1bb-25d86cd039f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Make.Settings">
+    <option name="path" value="D:\mingw64\bin\make.exe" />
+  </component>
+  <component name="ProjectId" id="1cCOAzGm6DWFETaKMQEhxabVnMf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/mingw64/bin/make.exe" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Works\C\PcapParser\include" />
+      <recent name="D:\Works\C\PcapParser\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PcapParser" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PcapParser" TARGET_NAME="PcapParser" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PcapParser" RUN_TARGET_NAME="PcapParser">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="209ce6ad-f628-4aad-a1bb-25d86cd039f5" name="Default Changelist" comment="" />
+      <created>1590028968918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590028968918</updated>
+      <workItem from="1590028970540" duration="4392000" />
+      <workItem from="1590064416521" duration="5693000" />
+      <workItem from="1590106445518" duration="2881000" />
+      <workItem from="1590109340552" duration="3215000" />
+      <workItem from="1590151122818" duration="10382000" />
+      <workItem from="1590162916842" duration="25000" />
+      <workItem from="1590196497328" duration="9857000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590109269823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590109269823" />
+    <state x="737" y="410" key="Github.CreateGistDialog" timestamp="1590206763083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="737" y="410" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590206763083" />
+    <state width="1867" height="192" key="GridCell.Tab.0.bottom" timestamp="1590206523294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="192" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590206523294" />
+    <state width="1867" height="192" key="GridCell.Tab.0.center" timestamp="1590206523294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="192" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590206523294" />
+    <state width="1867" height="192" key="GridCell.Tab.0.left" timestamp="1590206523294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="192" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590206523294" />
+    <state width="1867" height="192" key="GridCell.Tab.0.right" timestamp="1590206523294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="192" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590206523294" />
+    <state width="1867" height="421" key="GridCell.Tab.1.bottom" timestamp="1590151730638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="421" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590151730638" />
+    <state width="1867" height="421" key="GridCell.Tab.1.center" timestamp="1590151730638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="421" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590151730638" />
+    <state width="1867" height="421" key="GridCell.Tab.1.left" timestamp="1590151730638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="421" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590151730638" />
+    <state width="1867" height="421" key="GridCell.Tab.1.right" timestamp="1590151730638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="421" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590151730638" />
+    <state x="345" y="78" key="SettingsEditor" timestamp="1590206581464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="345" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590206581464" />
+    <state x="556" y="310" key="com.intellij.ide.util.TipDialog" timestamp="1590162916910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="556" y="310" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590162916910" />
+    <state x="1499" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1590030575919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1499" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590030575919" />
+  </component>
+</project>
